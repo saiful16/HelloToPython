@@ -8,3 +8,5 @@ if number1 > number2 :
     print(number1," is bigger")
 elif number2 > number1 :
     print(number2, "is bigger")
+else:
+    print("Somethings else")
